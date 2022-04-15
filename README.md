@@ -1,4 +1,4 @@
-# Embedding Python in C++ with CMake  
+# Embedding Python3 in C++ with CMake  
 
 This project includes several examples of how to embed Python in C++ with CMake. Please be sure that this project was only built and tested on MacOS.  
 
