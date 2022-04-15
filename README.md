@@ -22,7 +22,7 @@ This project includes several examples of how to embed Python in C++ with CMake.
 # before installing gcc, Xcode was already installed which was not sure to affect compilation of the source code. 
 (ep)% brew install git cmake gcc
 
-(ep)% git clone EmbeddingPython3inCppwithCMake.git
+(ep)% git clone https://github.com/supertigim/EmbeddingPython3inCppwithCMake.git
 (ep)% cd EmbeddingPython3inCppwithCMake
 
 (ep)% sh ./build_all.sh
